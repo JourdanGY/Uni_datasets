@@ -1,0 +1,76 @@
+year,type,male,female,total
+2021,self-employed,309,127,436
+2021,executive of a company,257,81,338
+2021,employee,2966,2611,5577
+2021,part-time worker,120,884,1004
+2021,temporary worker,213,218,431
+2021,contract worker,145,128,273
+2021,entrusted employee,71,41,112
+2021,unemployed,116,77,193
+2021,labor force status unknown,4,5,9
+2021,not in labour force,1526,2650,4176
+2021,employed in agriculture and forestry,32,25,57
+2021,non-agricultural industries,3567,2904,6471
+2021,government,287,245,532
+2021,non-regular employee,641,1397,2038
+2021,family worker,325,197,522
+2020,self-employed,391,135,526
+2020,executive of a company,260,83,343
+2020,employee,3010,2620,5630
+2020,part-time worker,122,902,1024
+2020,temporary worker,225,223,448
+2020,contract worker,146,133,279
+2020,entrusted employee,75,41,116
+2020,unemployed,115,76,191
+2020,labor force status unknown,4,4,8
+2020,not in labour force,1527,2677,4204
+2020,employed in agriculture and forestry,59,32,91
+2020,non-agricultural industries,5914,3237,9151
+2020,government,524,290,814
+2020,non-regular employee,665,1425,2090
+2020,family worker,418,248,666
+2019,self-employed,314,126,440
+2019,executive of a company,246,83,329
+2019,employee,3004,2609,5613
+2019,part-time worker,120,912,1032
+2019,temporary worker,228,237,465
+2019,contract worker,155,138,293
+2019,entrusted employee,80,44,124
+2019,unemployed,96,66,162
+2019,labor force status unknown,4,5,9
+2019,not in labour force,1526,2670,4196
+2019,employed in agriculture and forestry,125,83,208
+2019,non-agricultural industries,3251,2692,5943
+2019,government,292,224,516
+2019,non-regular employee,678,1457,2135
+2019,family worker,423,252,675
+2018,self-employed,398,137,535
+2018,executive of a company,248,82,330
+2018,employee,3016,2589,5605
+2018,part-time worker,121,914,1035
+2018,temporary worker,226,229,455
+2018,contract worker,156,138,294
+2018,entrusted employee,75,45,120
+2018,unemployed,99,67,166
+2018,labor force status unknown,4,4,8
+2018,not in labour force,1542,2721,4263
+2018,employed in agriculture and forestry,32,27,59
+2018,non-agricultural industries,3233,2644,5877
+2018,government,285,220,505
+2018,non-regular employee,669,1451,2120
+2018,family worker,429,257,686
+2017,self-employed,395,133,528
+2017,executive of a company,263,86,349
+2017,employee,2966,2504,5470
+2017,part-time worker,113,884,997
+2017,temporary worker,210,207,417
+2017,contract worker,156,135,291
+2017,entrusted employee,75,45,120
+2017,unemployed,112,78,190
+2017,labor force status unknown,18,14,32
+2017,not in labour force,1578,2803,4381
+2017,employed in agriculture and forestry,32,25,57
+2017,non-agricultural industries,3549,2780,6329
+2017,government,280,220,500
+2017,non-regular employee,647,1389,2036
+2017,family worker,,,
